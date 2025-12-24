@@ -1,17 +1,21 @@
 @font-face {
-  font-family: Raleway;
-  src:
-    url(./Raleway-Regular.woff2) format('woff2'),
-    url(./Raleway-Regular.woff) format('woff');
-  font-weight: normal;
-  font-display: swap;
+    font-family: 'Raleway-Regular';
+    src: 
+        url(c:\Users\Лисёнок\ono-tebe-nado-fd\fonts\Raleway-Regular.woff) format('woff'),
+        url(c:\Users\Лисёнок\ono-tebe-nado-fd\fonts\Raleway-Regular.woff2) format('woff2');
+    font-weight: 400;
 }
 
 @font-face {
-  font-family: Raleway;
-  src:
-    url(./Raleway-Bold.woff2) format('woff2'),
-    url(./Raleway-Bold.woff) format('woff');
-  font-weight: bold;
-  font-display: swap;
+    font-family: 'Raleway-Bold';
+    src: 
+        url(c:\Users\Лисёнок\ono-tebe-nado-fd\fonts\Raleway-Bold.woff) format('woff'),
+        url(c:\Users\Лисёнок\ono-tebe-nado-fd\fonts\Raleway-Bold.woff2) format('woff2');
+    font-weight: 700;
 }
+
+/*@font-face {
+    font-family: 'Raleway-Medium';
+    src: url(static/Raleway-Medium.ttf) format('truetype');
+    font-weight: 500;
+}*/
