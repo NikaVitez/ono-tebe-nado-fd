@@ -211,7 +211,7 @@ button {
     padding: 35px 0px 0px 0px;
     display: grid;
     justify-items: center;
-    grid-template-columns: 334px auto; 
+    grid-template-columns: 334px auto;
 }
 
 .about_logo {
