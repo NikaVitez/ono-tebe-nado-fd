@@ -159,11 +159,11 @@ button {
 }
 
 .lot_film {
-    background-image: url(../images/b6c1b9c4f9bad749215d12244cdd86581803c147.jpg);
+    background-image: url(../images/card-lot-01.jpg);
 }
 
 .lot_book {
-    background-image: url(../images/5643432f06853e92f2a26a4fdddcd6a380a702f7.png);
+    background-image: url(../images/card-lot-02.jpg);
     background-size: 596px auto;
     background-repeat: no-repeat;
 }
